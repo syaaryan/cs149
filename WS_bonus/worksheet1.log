@@ -1,0 +1,16 @@
+  647  ls
+  648  cd xv6-labs-2023
+  649  make qemu
+  650  cd ~
+  651  cd Documents/cs149GitHub/WS_bonus
+  652  touch sleep.c
+  653  nano sleep.c
+  654  cd ~
+  655  cd xvg-labs-2023
+  656  ls
+  657  cd xv6-labs-2023
+  658  Makefile
+  659  nano Makefile
+  660  ./grade-lab-util sleep
+  661  cd ~
+  662  cd Documents/cs149GitHub/WS_bonus
