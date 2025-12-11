@@ -1,0 +1,16 @@
+  580  cd ~
+  581  cd Documents/
+  582  mkdir cs149GitHub
+  583  cd cs149GitHub
+  584  git init
+  585  git remote add origin https://github.com/syaaryan/cs149.git
+  586  git config --global user.email "syedaaryanhakim@gmail.com"
+  587  git config --global user.name "syaaryan"
+  588  mkdir WS_bonus
+  589  cd WS_bonus
+  590  wget -O out.pdf https://tinyurl.com/yy94jltt
+  591  cd ~
+  592  brew install wget
+  593  cd Documents/cs149GitHub/WS_bonus
+  594  wget -O out.pdf https://tinyurl.com/yy94jltt
+  595  ls -latr
